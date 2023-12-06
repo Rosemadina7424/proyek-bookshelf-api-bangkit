@@ -1,0 +1,22 @@
+{
+  "name": "proyek-bookshelf-api-bangkit",
+  "version": "1.0.0",
+  "description": "bookshelfApi",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rosemadina7424/proyek-bookshelf-api-bangkit.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Rosema Dina Apriliani",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.2",
+    "nanoid": "^5.0.4"
+  }
+}
